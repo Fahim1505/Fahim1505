@@ -35,4 +35,4 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 - Email: muntasirfahim1505@gmail.com  
 - LinkedIn: [https://linkedin.com/in/fahim](https://www.linkedin.com/in/fahim-muntasir-shoummow-a57360344/)  
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahim1505&show_icons=true&theme=radical)
