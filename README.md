@@ -1,6 +1,23 @@
 ## Hi, I am Fahim 👋  
 Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep Learning | Laravel Framework | PHP | UI/UX
 
+### About Me
+
+Software Engineering - I write clean, maintainable code and solve problems with structured logic.
+
+Flutter Development - I build fast, responsive mobile apps with scalable architecture.
+
+Problem Solving - I break complex requirements into clear, workable solutions.
+
+Machine Learning - I apply data driven models to improve features and decisions.
+
+Deep Learning - I understand neural networks and practical model usage.
+
+Laravel Framework - I develop secure and structured backend systems.
+
+PHP - I build reliable server side logic and APIs.
+
+UI and UX - I design interfaces that are simple, usable, and user focused.
 
 ### Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
