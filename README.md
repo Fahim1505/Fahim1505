@@ -33,7 +33,10 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 - **Weather App**  
   Flutter app using REST API and clean UI  
   🔗 https://github.com/Fahim1505/Weather_Station
-
+- **Puzzle Game**
+   Flutter game using REST API and clean UI.
+  🔗 https://github.com/Fahim1505/puzzle_game
+  
 ### Connect With Me
 - Email: muntasirfahim1505@gmail.com  
 - LinkedIn: [https://linkedin.com/in/fahim](https://www.linkedin.com/in/fahim-muntasir-shoummow-a57360344/)  
