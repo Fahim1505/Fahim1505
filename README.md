@@ -30,3 +30,21 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 ![UI/UX](https://img.shields.io/badge/UI%20UX-000000?style=flat\&logo=figma)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahim&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim&layout=compact)
+
+### Featured Projects
+- **Weather App**  
+  Flutter app using REST API and clean UI  
+  🔗 https://github.com/fahim/weather_app
+
+![Snake animation](https://github.com/fahim/fahim/blob/output/github-contribution-grid-snake.svg)
+
+### Connect With Me
+- Email: muntasirfahim1505@gmail.com  
+- LinkedIn: [https://linkedin.com/in/fahim](https://www.linkedin.com/in/fahim-muntasir-shoummow-a57360344/)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=fahim)
+
