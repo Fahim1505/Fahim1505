@@ -32,13 +32,13 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahim&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahim1505&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim1505&layout=compact)
 
 ### Featured Projects
 - **Weather App**  
   Flutter app using REST API and clean UI  
-  🔗 https://github.com/fahim/weather_app
+  🔗 https://github.com/Fahim1505/Weather_Station
 
 ![Snake animation](https://github.com/fahim/fahim/blob/output/github-contribution-grid-snake.svg)
 
@@ -46,5 +46,4 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 - Email: muntasirfahim1505@gmail.com  
 - LinkedIn: [https://linkedin.com/in/fahim](https://www.linkedin.com/in/fahim-muntasir-shoummow-a57360344/)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=fahim)
 
