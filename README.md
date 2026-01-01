@@ -24,6 +24,9 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 ![UI/UX](https://img.shields.io/badge/UI%20UX-000000?style=for-the-badge\&logo=figma)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 
 ### Featured Projects
@@ -35,4 +38,3 @@ Software Engineer | Flutter Developer | Problem Solver | Machine Learnig | Deep 
 - Email: muntasirfahim1505@gmail.com  
 - LinkedIn: [https://linkedin.com/in/fahim](https://www.linkedin.com/in/fahim-muntasir-shoummow-a57360344/)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahim1505&show_icons=true&theme=radical)
